@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    padding: 2em;
+}
+h1{
+    color: antiquewhite;
+}
+.row{
+    padding: 1rem;
+}
+.barra{
+    background-color: rgb(225, 193, 255);
+}
+.cajaborde{
+    border-style: solid;
+    border-color: rgb(201, 201, 201);
+    height: 30vh;
+}
